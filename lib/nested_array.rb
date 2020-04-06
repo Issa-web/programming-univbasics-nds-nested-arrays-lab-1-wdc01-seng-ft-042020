@@ -69,5 +69,5 @@ def matrix_update(matrix, row, column, new_value)
  #assembled_matrix[0][2]="Lemons"
  #assembled_matrix[0][2]="Onions"
  #assembled_matrix
- binding.pry
+ #learbinding.pry
 end
